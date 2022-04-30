@@ -12,3 +12,5 @@
 -->
 
 ### 这里仓库存一些乱七八糟的项目，不想放在自己号里的。
+
+### 能在Replit一键部署的：https://github.com/stars/valetzx/lists/replit
